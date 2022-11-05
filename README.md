@@ -14,7 +14,7 @@ Alicy é uma Mexicana e veio tentar a sorte no Brasil, sendo ela empreendedora. 
 
 ### Dashboard
 
-#### links 
+#### link
 * Link do Dashboard interativo: https://abre.ai/dashboard012
 <br />
 
