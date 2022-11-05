@@ -1,4 +1,5 @@
 # O Problema de Negócio
+#### Web Scraping
 
 ## Empresa Moda jeans
 
@@ -15,15 +16,8 @@ Alicy é uma Mexicana e veio tentar a sorte no Brasil, sendo ela empreendedora. 
 
 #### links 
 * Link do Dashboard interativo: https://abre.ai/dashboard012
-Ou
-* QR Code:
-</span>
+<br />
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/110690751/200124816-b275bbcd-5e7b-4915-a99e-89f837b79ff3.png" align="left", width="95px" <br>
-</div>
-
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/110690751/200126401-e3c75c20-0836-4c67-b93a-cf748f200068.jpeg" width="850px"
+<img src="https://user-images.githubusercontent.com/110690751/200126401-e3c75c20-0836-4c67-b93a-cf748f200068.jpeg" width="850px" <br />
 </div>
