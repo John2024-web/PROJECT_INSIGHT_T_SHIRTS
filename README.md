@@ -11,6 +11,9 @@ Alicy é uma Mexicana e veio tentar a sorte no Brasil, sendo ela empreendedora. 
 * A média dos preços por categoria;
 * Diferença ntre os preços masculino e feminino;
 
+### Dashboard 
+</span>
 
-
-
+<div align="center">
+<img src="https://desblogada.files.wordpress.com/2021/05/kaka-cordovil-java-developer-2.gif" width="700px" />
+</div>
