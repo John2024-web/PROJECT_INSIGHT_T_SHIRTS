@@ -11,9 +11,23 @@ Alicy é uma Mexicana e veio tentar a sorte no Brasil, sendo ela empreendedora. 
 * A média dos preços por categoria;
 * Diferença ntre os preços masculino e feminino;
 
-### Dashboard 
+### Dashboard
+
+#### links 
+* Link do Dashboard interativo: https://abre.ai/dashboard012
+Ou
+* QR Code:
+
 </span>
 
 <div align="center">
-<img src="https://desblogada.files.wordpress.com/2021/05/kaka-cordovil-java-developer-2.gif" width="700px" />
+<img src="https://user-images.githubusercontent.com/110690751/200124816-b275bbcd-5e7b-4915-a99e-89f837b79ff3.png" align="left", width="95px" />
 </div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/110690751/200126401-e3c75c20-0836-4c67-b93a-cf748f200068.jpeg" align="left", width="850px" />
+</div>
+
+
+
+
