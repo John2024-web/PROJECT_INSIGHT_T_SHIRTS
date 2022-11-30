@@ -19,9 +19,5 @@ Alicy é uma Brasileira que veio tentar a sorte nos Estados Unidos. Sendo ela em
 <br />
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/110690751/200126401-e3c75c20-0836-4c67-b93a-cf748f200068.jpeg" width="850px" <br />
-</div>
-
-<div align="center">
-<img src="file:///C:/Users/Jhon%20Anderson/Downloads/Web%20capture_30-11-2022_92237_app.powerbi.com.jpeg" width="850px" <br />
+<img src="https://user-images.githubusercontent.com/110690751/204796063-5db710e5-e681-4b12-bcd5-a1bcf763b5fa.jpeg" width="850px" <br />
 </div>
